@@ -1,7 +1,7 @@
 {
   "keys": {
-    "discordBotToken": "MTE3MTUzMzc2ODM2MDczNDc4MQ.GbK9xK.w0hdAnKx401XkMhGIt-Bg0ghaSvdC1yWsf6rxQ",
-    "hypixelApiKey": "aa0d45bc-4936-4e38-83e5-ba25ce0f7c11"
+    "discordBotToken": "",
+    "hypixelApiKey": ""
   },
   "channels": {
     "gameCategory": "1172610278245023815",
