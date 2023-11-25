@@ -1,0 +1,23 @@
+{
+  "keys": {
+    "discordBotToken": "MTE3MTUzMzc2ODM2MDczNDc4MQ.GbK9xK.w0hdAnKx401XkMhGIt-Bg0ghaSvdC1yWsf6rxQ",
+    "hypixelApiKey": "aa0d45bc-4936-4e38-83e5-ba25ce0f7c11"
+  },
+  "channels": {
+    "gameCategory": "1172610278245023815",
+    "ticketCategory": "1172846578726342756",
+    "archiveCategory": "1172909699335716874",
+    "flags": "1173307290930131045"
+  },
+  "roles": {
+    "admin": "1171540674311626773",
+    "verified": "1171541614070599801",
+    "unverified": "1171541649873191034",
+    "staff": "1172610517785915545",
+    "owner": "1172698443567878185"
+  },
+  "discordServer": "1171534773039145010",
+  "owner": "710163156818722886",
+  "itzlausi": "710163156818722886",
+  "slashCommandsSet": true
+}
